@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 spryker-community/SprykerPHPBridge is built on the following main stack:
+
 - [PHP](http://www.php.net/) – Languages
 - [Symfony](http://symfony.com/) – Frameworks (Full Stack)
 - [PHPUnit](https://phpunit.de/) – Testing Frameworks
@@ -12,11 +13,13 @@ spryker-community/SprykerPHPBridge is built on the following main stack:
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 spryker-community/SprykerPHPBridge is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg' alt='PHP'/> [PHP](http://www.php.net/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1197/logosf_positif_03_icon.png' alt='Symfony'/> [Symfony](http://symfony.com/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1616/1_WsEnddd5Y4EgEHsT054kUQ.jpeg' alt='PHPUnit'/> [PHPUnit](https://phpunit.de/) – Testing Frameworks
@@ -27,14 +30,15 @@ spryker-community/SprykerPHPBridge is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [spryker-community/SprykerPHPBridge](https://github.com/spryker-community/SprykerPHPBridge)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|9<br/>Tools used|11/09/23 <br/>Report generated|
+|17<br/>Tools used|12/14/23 <br/>Report generated|
 |------|------|
 </div>
 
@@ -130,7 +134,23 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
+
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (8)</h2>
+
+## <img width='24' height='24' src='https://img.stackshare.io/package_manager/1778/default_90cb8b66e85ae5b95928b10bb076ab6a27c7e151.png'/> Packagist (8)
+
+|NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
+|:------|:------|:------|:------|:------|:------|
+|[friendsofphp/php-cs-fixer](https://packagist.org/friendsofphp/php-cs-fixer)|v3.16|07/01/23|Chemaclass |N/A|N/A|
+|[phpstan/phpstan](https://packagist.org/phpstan/phpstan)|v1.10|07/01/23|Chemaclass |N/A|N/A|
+|[phpunit/phpunit](https://packagist.org/phpunit/phpunit)|v9.6|07/01/23|Chemaclass |N/A|N/A|
+|[roave/security-advisories](https://packagist.org/roave/security-advisories)|N/A|07/01/23|Chemaclass |N/A|N/A|
+|[symfony/console](https://packagist.org/symfony/console)|v5.4|07/01/23|Chemaclass |N/A|N/A|
+|[symfony/http-client](https://packagist.org/symfony/http-client)|v6.0|07/01/23|Chemaclass |N/A|N/A|
+|[symfony/var-dumper](https://packagist.org/symfony/var-dumper)|v6.0|07/01/23|Chemaclass |N/A|N/A|
+|[vimeo/psalm](https://packagist.org/vimeo/psalm)|v5.10|07/01/23|Chemaclass |N/A|N/A|
+
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
